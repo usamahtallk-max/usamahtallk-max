@@ -1,16 +1,40 @@
 # 💫 Hi 👋, I'm Osama Qureshi
-**A passionate Full-Stack Devploper || Web Devlpoment || Data Storage**
 
-Email Me 👉 ✉️ **osamamq786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**🚀 Full-Stack Developer | Web Development | AI/ML | Data & Databases**
 
-- 🔭 **I’m currently working on:**  Ai Estimation Of Used-vehicle  
-- 🌱 **I’m currently learning:** Final yr of BTech IT
-- 👯 **I’m looking to collaborate on:** Ai Estimation Of Used-vehicle  
-- 🤔 **I’m looking for help with:** Ai Estimation Of Used-vehicle  
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** osamamq786@gmail.com
-- 😄 **Pronouns:** Osama Qureshi
-- ⚡ **Fun fact:** I'm Obsessed With Tech....
+📧 **Email:** [osamamq786@gmail.com](mailto:osamamq786@gmail.com)
+Feel free to reach out for **collaborations, projects, tech discussions, or anything interesting!** 😊
+
+---
+
+### 👨‍💻 About Me
+
+* 🔭 **Currently working on:** AI-Powered Used Vehicle Price Estimation 🚗🏍️
+* 🌱 **Currently learning:** Advanced Full-Stack Development, AI/ML & Backend Technologies
+* 🎓 **Education:** Final-Year B.Tech IT Student
+* 👯 **Looking to collaborate on:** AI, Full-Stack & Open-Source Projects
+* 🤝 **Looking for help with:** Improving AI-based vehicle estimation and computer vision
+* 💬 **Ask me about:** Full-Stack Development, AI/ML, Web Development & Tech
+* 📫 **Reach me at:** [osamamq786@gmail.com](mailto:osamamq786@gmail.com)
+* 😄 **Pronouns:** Osama Qureshi
+* ⚡ **Fun fact:** I'm obsessed with technology and love building things! 🚀
+
+### 🛠️ What I Like Building
+
+💻 Full-Stack Web Applications
+🤖 AI & Machine Learning Projects
+🚗 Computer Vision & Vehicle Intelligence
+🗄️ Database-Driven Applications
+🌐 Modern Web Experiences
+
+### 🚀 Current Project
+
+**AI-Powered Used Vehicle Price Estimation**
+
+A full-stack AI application that predicts the estimated price of **used cars and bikes** using vehicle information and AI-powered analysis.
+
+**Always learning. Always building. Always experimenting. 🚀**
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theusamahhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theusamahhh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theusamahhh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theusamahhh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theusamahhh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osamamq786@gmail.com) 

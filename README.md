@@ -1,212 +1,185 @@
 # 👋 Hi, I'm Osama Qureshi
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Building Intelligent Web Applications
+<div align="center">
 
-I'm a **Final-Year B.Tech IT student** passionate about building practical software that combines **modern web technologies, artificial intelligence, machine learning, and data-driven systems**.
+<img src="assets/osama-profile.gif" width="220" alt="Osama Qureshi profile animation"/>
 
-I enjoy turning ideas into complete applications — from designing the frontend and backend to integrating databases, APIs, and AI models.
+### 🚀 Full-Stack Developer · AI/ML Enthusiast · Computer Vision Builder
 
-<p align="left">
-  <a href="mailto:osamamq786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/usamahtallk-max">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/osama-qureshhi-6742771a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Building intelligent software that combines modern web development, AI, machine learning and data.**
+
+<p>
+<a href="mailto:osamamq786@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/usamahtallk-max">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/osama-qureshi-6742771a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+%26+Computer+Vision+Enthusiast;Building+MotorIQ+%F0%9F%9A%97;Turning+Ideas+Into+Real+Applications" alt="Typing animation"/>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Final-Year **B.Tech IT Student**
-* 💻 Focused on **Full-Stack Web Development**
-* 🤖 Interested in **AI/ML & Computer Vision**
-* 🗄️ Experienced with **Databases, APIs & Backend Systems**
-* 🚗 Currently building **MotorIQ — AI-Powered Used Vehicle Intelligence**
-* 🌱 Currently learning **Advanced Backend, AI/ML & System Development**
-* 🤝 Open to collaborating on **AI, Full-Stack & Open-Source Projects**
-* 📍 Based in **Chhatrapati Sambhajinagar, Maharashtra, India**
+I'm a **Final-Year B.Tech IT student** focused on building practical, production-oriented applications.
+
+My interests sit at the intersection of:
+
+- 💻 **Full-Stack Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 👁️ **Computer Vision**
+- 🗄️ **Databases & Backend Systems**
+- ☁️ **Cloud & API Development**
+
+I enjoy taking an idea from **concept → architecture → implementation → deployment**.
 
 ---
 
-# 🚗 Featured Project
+## 🚗 Featured Project — MotorIQ
 
-## MotorIQ — AI-Powered Used Vehicle Intelligence
+### AI-Powered Used Vehicle Intelligence
 
-> **An intelligent full-stack platform for estimating used vehicle prices and analyzing vehicle condition from images.**
+> An intelligent full-stack platform for estimating used vehicle prices and analyzing vehicle condition from images.
 
-MotorIQ combines **machine learning, computer vision, and modern web development** to create a smarter used-vehicle evaluation experience.
+<div align="center">
 
-### 🔥 Key Features
+### 🧠 AI + 💻 Full Stack + 👁️ Computer Vision
 
-* 🚘 Used **Car & Bike Price Estimation**
-* 📸 AI-powered **Vehicle Image Analysis**
-* 🤖 **YOLO-based Damage Detection**
-* 📊 Vehicle Condition Analysis
-* 🎯 Condition Score & AI-based insights
-* 🧠 Machine Learning Price Prediction
-* 🔐 User Authentication
-* ☁️ Cloud Storage & Database Integration
-* ⚡ FastAPI-based AI Backend
-* ⚛️ Modern React Frontend
+</div>
 
-### 🧠 ML Models
+### ✨ What MotorIQ Does
 
-| Vehicle             | Model          |
-| ------------------- | -------------- |
-| 🚗 Cars             | CatBoost       |
-| 🏍️ Bikes           | Random Forest  |
-| 🔍 Damage Detection | YOLO           |
-| 📊 Data Processing  | Pandas + NumPy |
+| Capability | Technology |
+|---|---|
+| 🚗 Car price estimation | CatBoost |
+| 🏍️ Bike price estimation | Random Forest |
+| 👁️ Vehicle damage detection | YOLO |
+| 📸 Image analysis | Computer Vision |
+| ⚡ AI backend | FastAPI |
+| 🖥️ Frontend | React + Vite |
+| 🔐 Authentication | Supabase Auth |
+| 🗄️ Database | Supabase / PostgreSQL |
+| ☁️ Image storage | Supabase Storage |
 
-### 📈 Model Performance
+### 📊 Model Performance
 
-**Random Forest baseline for vehicle price estimation:**
+**Random Forest vehicle-price baseline**
 
-* **R² Score:** ~0.946
-* **MAE:** ~₹30,205
-* **RMSE:** ~₹66,809
+```text
+R² Score   ███████████████████░  ~0.946
+MAE        ~₹30,205
+RMSE       ~₹66,809
+```
+
+🔗 **Project:** [MotorIQ](https://github.com/usamahtallk-max/MotorIQ)
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&perline=7"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,bootstrap&perline=6"/>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=6"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / ML / Data
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=6"/>
 </p>
 
-### 🗄️ Databases
+**Also working with:** CatBoost · YOLO · Pandas · NumPy · Matplotlib · Computer Vision
+
+### Databases & Cloud
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,aws,azure&perline=7"/>
 </p>
 
-### ☁️ Cloud & Tools
+### Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 📊 Data & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions&perline=6"/>
 </p>
 
 ---
 
-# 📂 What I Build
+## 🧩 What I Like Building
 
 ```text
-┌──────────────────────────────────────────────┐
-│              SOFTWARE & AI                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│  💻 Full-Stack Web Applications              │
-│  🤖 AI / Machine Learning Systems            │
-│  👁️ Computer Vision Applications             │
-│  🚗 Vehicle Intelligence Solutions           │
-│  🗄️ Database-Driven Applications             │
-│  ⚡ REST APIs & Backend Systems               │
-│  📊 Data Analysis & Visualization             │
-│                                              │
-└──────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   💻 Full-Stack Applications                         │
+│   🤖 AI / Machine Learning Systems                   │
+│   👁️ Computer Vision Applications                    │
+│   🚗 Vehicle Intelligence                            │
+│   ⚡ REST APIs & Backend Services                    │
+│   🗄️ Database-Driven Applications                    │
+│   📊 Data Analysis & Visualization                   │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🚀 Current Focus
+## 🔭 Currently Building
 
-```text
-Full-Stack Development
-        ↓
-Backend & APIs
-        ↓
-Databases & Cloud
-        ↓
-Machine Learning
-        ↓
-Computer Vision
-        ↓
-AI-Powered Applications
-```
+### MotorIQ
+`AI + Computer Vision + Full Stack`
 
-I'm currently focused on building projects where **software engineering and AI work together**, rather than treating them as separate technologies.
+### 📚 Currently Learning
+
+`Advanced Full-Stack Development` · `AI/ML` · `Backend Engineering` · `Cloud Technologies`
+
+### 🤝 Open To
+
+`AI Projects` · `Full-Stack Projects` · `Open Source` · `Interesting Collaborations`
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamahtallk-max&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=usamahtallk-max&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahtallk-max&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahtallk-max&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=usamahtallk-max&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=usamahtallk-max&theme=transparent&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Animation
 
 <div align="center">
 
@@ -216,26 +189,59 @@ I'm currently focused on building projects where **software engineering and AI w
 
 ---
 
-# 🌐 Connect With Me
+# 💻 Developer Mode
 
-<p align="left">
+```python
+class OsamaQureshi:
+
+    role = "Full-Stack Developer"
+    education = "B.Tech IT"
+
+    interests = [
+        "AI / ML",
+        "Computer Vision",
+        "Web Development",
+        "Backend Engineering",
+        "Databases"
+    ]
+
+    currently_building = "MotorIQ"
+
+    philosophy = "Build. Learn. Improve. Repeat."
+
+print("Always learning. Always building. 🚀")
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
 <a href="mailto:osamamq786@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Talk-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/osama-qureshhi-6742771a1/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/osama-qureshi-6742771a1/">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/usamahtallk-max">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 💡 Developer Philosophy
 
 > **Build it. Break it. Understand it. Improve it.**
 
-### 🚀 Always Learning. Always Building. Always Experimenting.
+### 🚀 Always Learning · Always Building · Always Experimenting
+
+<img src="https://komarev.com/ghpvc/?username=usamahtallk-max&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
